@@ -1,5 +1,5 @@
 ### 🔓
-### I'm Bartek(GGGeralt)
+### I'm Bartek(Thalruk)
 ### 
 ### <img src="https://github-readme-stats.vercel.app/api?username=GGGeralt&show_icons=true&theme=dark"/>
 ---
