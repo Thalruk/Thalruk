@@ -7,10 +7,6 @@
 ### I'm currently learning in University of Lodz🎓
 ### I'm focusing mostly on 🎇C#(Unity)🎇
 ### And in my free time I like to have fun with it💻
----
-### There are also university projects like:
-### <img src="https://github-readme-stats.vercel.app/api/pin/?username=GGGeralt&repo=IoT-Project"/>
-### <img src="https://github-readme-stats.vercel.app/api/pin/?username=TrueJacobG&repo=io-project"/>
 
 
 
